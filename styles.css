@@ -1,0 +1,52 @@
+.unorder{
+    position: relative;
+}
+
+.sub-head{
+    position: relative;
+    left: 1em;
+}
+.edu{
+    position: relative;
+    left: 1rem;
+    font-family: 'Audiowide', cursive;
+}
+.fonting{
+    font-family: 'Raleway', sans-serif;
+}
+.fonting-p{
+    font-family: 'Roboto Mono', monospace;
+    text-align: justify;
+    text-align-last: justify;
+    text-justify: inter-word;
+}
+.text-body-secondary {
+    --bs-text-opacity: 1;
+    color: var(--bs-secondary-color)!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.featurette-heading {
+    letter-spacing: -.05rem;
+}
+
+.lh-1 {
+    line-height: 1!important;
+}
+.fw-normal {
+    font-weight: 400!important;
+}
+.fonting-me{
+    font-family: 'Oswald', sans-serif;
+}
+.about_me-item2{
+    position: absolute;
+    top: 10rem;
+}
+.fonting-h3{
+    font-family: 'Major Mono Display', monospace;
+}
+.certi{
+    font-family: 'Anonymous Pro', monospace;
+}
